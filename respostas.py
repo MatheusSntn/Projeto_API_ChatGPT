@@ -1,9 +1,6 @@
-import asyncio
 import speech_recognition as sr
 import openai
-
-
-openai.api_key = "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"
+import api_key
 
 
 mensagens = [{"role":"system", "content": "Voce é um assistente FURIOSO."}]

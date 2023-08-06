@@ -1,4 +1,4 @@
-from main import gerar_respostas, mensagens
+from respostas import gerar_respostas, mensagens
 import speech_recognition as sr
 import asyncio
 
