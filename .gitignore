@@ -1,5 +1,6 @@
 readme.txt
 api_key.py
+__pycache__
 
 # Environments
 .env 
